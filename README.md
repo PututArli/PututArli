@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Halo+semua!;Selamat+datang+di+profil+saya;Mari+terhubung!&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Halo+!;Selamat+datang+!+;Mari+terhubung!&center=true&width=500&height=50">
 
-![Snake](https://raw.githubusercontent.com/RafaelPututArli/RafaelPututArli/output/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/PututArli/PututArli/output/github-snake.svg)
 
-![Visitor](https://profile-counter.glitch.me/RafaelPututArli/count.svg)
+![Visitor](https://profile-counter.glitch.me/PututArli/count.svg)
