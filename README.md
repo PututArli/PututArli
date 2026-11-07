@@ -2,4 +2,4 @@
 
 ![Snake](https://raw.githubusercontent.com/PututArli/PututArli/output/github-snake.svg)
 
-![Visitor](https://profile-counter.glitch.me/PututArli/count.svg)
+![Visitor](https://komarev.com/ghpvc/?username=PututArli&label=Pengunjung&color=0e75b6&style=flat)
